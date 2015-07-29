@@ -20,7 +20,7 @@
 dotsyncrc
 #ack/ackrc
 #aptitude
-#bin:bin
+bin:bin
 #ctags/ctags
 #cmus
 #curl/curlrc
@@ -43,18 +43,18 @@ dotsyncrc
 #mysql/my.cnf
 #ncmpcpp/config
 #ncmpcpp/error.log
-#postgresql/psqlrc
+postgresql/psqlrc
 #python/pythonrc
 #python/pylintrc
 #rpm/rpmmacros
-#ruby/irbrc
-#ruby/pryrc
-#ruby/gemrc
-#ruby/railsrc
-#ruby/rdebugrc
-#ruby/aprc
-#ruby/caprc
-#screen/screenrc
+ruby/irbrc
+ruby/pryrc
+ruby/gemrc
+ruby/railsrc
+ruby/rdebugrc
+ruby/aprc
+ruby/caprc
+# screen/screenrc
 #shell/hushlogin
 #shell/urlview
 #ssh
@@ -73,7 +73,7 @@ dotsyncrc
 #zsh/zlogout
 #zsh/zprofile
 #zsh/zshenv
-#zsh/zshrc
+zsh/zshrc
 [endfiles]
 
 # Hosts to sync
